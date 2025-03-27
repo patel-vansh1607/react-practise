@@ -1,14 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import Form from './components/form';
-import RegForm from './components/RegForm';
 import FooterComp from './components/footerComp';
+import Button from './components/button';
+import LoginComp from './components/LoginComp';
 
 function App() {
   return (
     <div className="App">
-      <Form />
-      <RegForm />
+      <Button />
+      <LoginComp />
       <FooterComp />
     </div>
   );
