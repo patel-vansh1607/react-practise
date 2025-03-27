@@ -6,4 +6,4 @@ const FooterComp = () => {
         </div>
     )
 }
-export default FooterComp       
+export default FooterComp     
